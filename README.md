@@ -1,11 +1,3 @@
 # git-website
 
-updates.
-
-again.
-aaaaagain.
-
-
-change on example branch
-
-Some.
+UPDATES ON GITHUB BEFORE REBASE.
